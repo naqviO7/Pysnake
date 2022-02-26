@@ -187,3 +187,4 @@ while True:
 
     # Frame Per Second /Refresh Rate
     fps.tick(snake_speed)
+#ENDOFCODE
