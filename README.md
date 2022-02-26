@@ -12,5 +12,6 @@ Typical Snake Game in Python
 2. Use `up` `down` `left` `right` arrows key to move snake
 
 # How to Use:
-1. Use `python game.py` command to play.
-2. Convert it into `Executable` using `pyinstaller game.py --onefile`
+1. Use `pip install -r requirements.txt` to automatically install required modules. 
+2. Use `python game.py` command to play.
+3. Convert it into `Executable` using `pyinstaller game.py --onefile`
