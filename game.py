@@ -32,14 +32,7 @@ snake_position = [100, 50]
 snake_body = [[100, 50],
               [90, 50],
               [80, 50],
-              [70, 50]
-              ]
-
-snake1_body = [[100, 50],
-               [90, 50],
-               [80, 50],
-               [70, 50]
-               ]
+              [70, 50]]
 
 # fruit position
 fruit_position = [random.randrange(1, (window_x//10)) * 10,
@@ -187,4 +180,6 @@ while True:
 
     # Frame Per Second /Refresh Rate
     fps.tick(snake_speed)
+
+
 #ENDOFCODE
